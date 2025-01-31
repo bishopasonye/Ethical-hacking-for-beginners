@@ -76,8 +76,5 @@ Hi, I'm Rajneesh Gupta, security consultant, coach, and two-times best-selling a
 
 Feel free to connect with me on any of these platforms!
 
-## Professional Services
-
-For professional services and consultations, please visit my company website at [Hax Security](https://www.haxsecurity.com).
 
 Thank you for visiting my GitHub page!
