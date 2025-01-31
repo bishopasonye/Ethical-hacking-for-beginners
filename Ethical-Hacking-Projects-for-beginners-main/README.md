@@ -71,9 +71,8 @@ Hi, I'm Rajneesh Gupta, security consultant, coach, and two-times best-selling a
 
 ## Connect with Me
 
-- **LinkedIn**: [Rajneesh Gupta](https://www.linkedin.com/in/rajneeshcyber)
-- **Twitter**: [@rajneeshcyber](https://twitter.com/rajneeshcyber)
-- **YouTube Channel**: [Rajneesh Gupta](https://www.youtube.com/channel/rajneeshcyber)
+- **LinkedIn**: https://www.linkedin.com/in/charles-asonye
+- **Gmail**:    bishopasonye@gmail.com
 
 Feel free to connect with me on any of these platforms!
 
